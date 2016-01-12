@@ -1,2 +1,2 @@
 # Spring4Hello
-Simple Spring 4 Program with tiles
+Simple Spring 4 Program without tiles
